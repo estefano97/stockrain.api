@@ -1,0 +1,15 @@
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.application\bin\Debug\net7.0\stockrain.application.deps.json
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.application\bin\Debug\net7.0\stockrain.application.dll
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.application\bin\Debug\net7.0\stockrain.application.pdb
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.application\bin\Debug\net7.0\stockrain.domain.dll
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.application\bin\Debug\net7.0\stockrain.domain.pdb
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.application\obj\Debug\net7.0\stockrain.application.csproj.AssemblyReference.cache
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.application\obj\Debug\net7.0\stockrain.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.application\obj\Debug\net7.0\stockrain.application.AssemblyInfoInputs.cache
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.application\obj\Debug\net7.0\stockrain.application.AssemblyInfo.cs
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.application\obj\Debug\net7.0\stockrain.application.csproj.CoreCompileInputs.cache
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.application\obj\Debug\net7.0\stockrain.application.csproj.CopyComplete
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.application\obj\Debug\net7.0\stockrain.application.dll
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.application\obj\Debug\net7.0\refint\stockrain.application.dll
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.application\obj\Debug\net7.0\stockrain.application.pdb
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.application\obj\Debug\net7.0\ref\stockrain.application.dll

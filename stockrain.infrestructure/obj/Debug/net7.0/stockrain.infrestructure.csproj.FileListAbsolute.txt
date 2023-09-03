@@ -1,0 +1,17 @@
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.infrestructure\bin\Debug\net7.0\stockrain.infrestructure.deps.json
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.infrestructure\bin\Debug\net7.0\stockrain.infrestructure.dll
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.infrestructure\bin\Debug\net7.0\stockrain.infrestructure.pdb
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.infrestructure\bin\Debug\net7.0\stockrain.application.dll
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.infrestructure\bin\Debug\net7.0\stockrain.domain.dll
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.infrestructure\bin\Debug\net7.0\stockrain.application.pdb
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.infrestructure\bin\Debug\net7.0\stockrain.domain.pdb
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.infrestructure\obj\Debug\net7.0\stockrain.infrestructure.csproj.AssemblyReference.cache
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.infrestructure\obj\Debug\net7.0\stockrain.infrestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.infrestructure\obj\Debug\net7.0\stockrain.infrestructure.AssemblyInfoInputs.cache
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.infrestructure\obj\Debug\net7.0\stockrain.infrestructure.AssemblyInfo.cs
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.infrestructure\obj\Debug\net7.0\stockrain.infrestructure.csproj.CoreCompileInputs.cache
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.infrestructure\obj\Debug\net7.0\stockrain.infrestructure.csproj.CopyComplete
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.infrestructure\obj\Debug\net7.0\stockrain.infrestructure.dll
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.infrestructure\obj\Debug\net7.0\refint\stockrain.infrestructure.dll
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.infrestructure\obj\Debug\net7.0\stockrain.infrestructure.pdb
+C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.infrestructure\obj\Debug\net7.0\ref\stockrain.infrestructure.dll

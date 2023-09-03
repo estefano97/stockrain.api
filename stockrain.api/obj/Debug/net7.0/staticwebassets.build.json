@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "j46zaI6iSN8mjvmQmg+mG9NxO4ojZcuUwZrNin9x6TM=",
+  "Source": "stockrain.api",
+  "BasePath": "_content/stockrain.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/JGHpDBc2wbqVxVrdVD4nLqKzNPa/AQ7E/mONDGNkFsAq2MQb/fIacEkbi4LhrVFUiPPOHlbgAPxu3K+Gh+UOw==",
+  "dgSpecHash": "EmrDFnFRerH9i+ktC8CsP7lqilCDGMuAgysQ3dElRr2HhcRLnl3pENdtNW4Vfy8ETmsK4iVD8NUQC4WJtqmAsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kali_\\Documents\\Proyectos\\stockrain.api\\stockrain.infrestructure\\stockrain.infrestructure.csproj",
+  "projectFilePath": "C:\\Users\\kali_\\Documents\\MyStockApiDiana\\stockrain.api\\stockrain.infrestructure\\stockrain.infrestructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kali_\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\kali_\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",

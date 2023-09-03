@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0DaMcSmMO2qr73jcbWYSNaALV46I9JjusbarZtJnwkO1NQ+JGOOz+EjXyL0V3liODElob5FLC5ekb0CUyUjf0A==",
+  "dgSpecHash": "8drWiMzRmhh8A+PK5F1ylZR7y//vR2wspKJDkaJFzz3Cw2nGr5Ym6ozxcF2QMH6d0TRqCMvQ/D9p9fXz2XEVLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kali_\\Documents\\Proyectos\\stockrain.api\\stockrain.api\\stockrain.api.csproj",
+  "projectFilePath": "C:\\Users\\kali_\\Documents\\MyStockApiDiana\\stockrain.api\\stockrain.api\\stockrain.api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kali_\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\kali_\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

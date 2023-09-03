@@ -16,6 +16,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddAuthentication(JwtBearerDefauts.AutenticationScheme).AddJwtBearer(option = 
+
 builder.Services.AddCors(opciones =>
 {
     opciones.AddDefaultPolicy(builder =>

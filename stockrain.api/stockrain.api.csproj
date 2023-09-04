@@ -22,4 +22,5 @@
     <ProjectReference Include="..\stockrain.infrestructure\stockrain.infrestructure.csproj" />
   </ItemGroup>
 
+
 </Project>

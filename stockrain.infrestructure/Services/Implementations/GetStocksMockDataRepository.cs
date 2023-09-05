@@ -18,6 +18,7 @@ namespace stockrain.infrestructure.Services.Implementations
             Items.Add(new InitialStock { Id = 2, Name = "SP500", Price = 5201 });
             Items.Add(new InitialStock { Id = 3, Name = "Vanguard", Price = 2345 });
             Items.Add(new InitialStock { Id = 4, Name = "Facebook", Price = 7802 });
+            Items.Add(new InitialStock { Id = 4, Name = "Twitter", Price = 1111 });
 
             return Items;
         }

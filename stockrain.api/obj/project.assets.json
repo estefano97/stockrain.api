@@ -1908,30 +1908,28 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kali_\\Documents\\Proyectos\\stockrain.api\\stockrain.api\\stockrain.api.csproj",
+      "projectUniqueName": "C:\\Users\\kali_\\Documents\\MyStockApiDiana\\stockrain.api\\stockrain.api\\stockrain.api.csproj",
       "projectName": "stockrain.api",
-      "projectPath": "C:\\Users\\kali_\\Documents\\Proyectos\\stockrain.api\\stockrain.api\\stockrain.api.csproj",
+      "projectPath": "C:\\Users\\kali_\\Documents\\MyStockApiDiana\\stockrain.api\\stockrain.api\\stockrain.api.csproj",
       "packagesPath": "C:\\Users\\kali_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kali_\\Documents\\Proyectos\\stockrain.api\\stockrain.api\\obj\\",
+      "outputPath": "C:\\Users\\kali_\\Documents\\MyStockApiDiana\\stockrain.api\\stockrain.api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kali_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\kali_\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "C:\\Users\\kali_\\.dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\kali_\\Documents\\Proyectos\\stockrain.api\\stockrain.infrestructure\\stockrain.infrestructure.csproj": {
-              "projectPath": "C:\\Users\\kali_\\Documents\\Proyectos\\stockrain.api\\stockrain.infrestructure\\stockrain.infrestructure.csproj"
+            "C:\\Users\\kali_\\Documents\\MyStockApiDiana\\stockrain.api\\stockrain.infrestructure\\stockrain.infrestructure.csproj": {
+              "projectPath": "C:\\Users\\kali_\\Documents\\MyStockApiDiana\\stockrain.api\\stockrain.infrestructure\\stockrain.infrestructure.csproj"
             }
           }
         }
@@ -1992,7 +1990,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\kali_\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

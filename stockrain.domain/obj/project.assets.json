@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kali_\\Documents\\MyStockApiDiana\\stockrain.api\\stockrain.domain\\stockrain.domain.csproj",
+      "projectUniqueName": "C:\\Users\\kali_\\Documents\\Proyectos\\stockrain.api\\stockrain.domain\\stockrain.domain.csproj",
       "projectName": "stockrain.domain",
-      "projectPath": "C:\\Users\\kali_\\Documents\\MyStockApiDiana\\stockrain.api\\stockrain.domain\\stockrain.domain.csproj",
+      "projectPath": "C:\\Users\\kali_\\Documents\\Proyectos\\stockrain.api\\stockrain.domain\\stockrain.domain.csproj",
       "packagesPath": "C:\\Users\\kali_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kali_\\Documents\\MyStockApiDiana\\stockrain.api\\stockrain.domain\\obj\\",
+      "outputPath": "C:\\Users\\kali_\\Documents\\Proyectos\\stockrain.api\\stockrain.domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kali_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\kali_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\kali_\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

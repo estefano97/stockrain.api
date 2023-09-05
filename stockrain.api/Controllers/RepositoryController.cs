@@ -1,13 +1,9 @@
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
-using Newtonsoft.Json;
 using stockrain.api.Model;
-using stockrain.infrestructure.Services.Implementations;
-using JwtRegisteredClaimNames = Microsoft.IdentityModel.JsonWebTokens.JwtRegisteredClaimNames;
 
 namespace stockrain.api.Controllers
 {
@@ -34,20 +30,20 @@ namespace stockrain.api.Controllers
                 {
                     new Claim(JwtRegisteredClaimNames.Sub, jwt?.Subject),
                     new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
-                    new Claim(JwtRegisteredClaimNames.Iat, DateTime.UtcNow.ToString()),
+                    new Claim(JwtRegisteredClaimNames.Iat, DateTime.UtcNow.ToString())
                 };
                 var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwt.Key));
                 var singIn = new SigningCredentials(key,SecurityAlgorithms.HmacSha256);
 
                 var token = new JwtSecurityToken(
-                    jwt.Issuer,
-                    jwt.Audience,
+                    issuer: null, audience: null,
                     claims,
+                    expires: DateTime.Now.AddMinutes(5),
                     signingCredentials: singIn
                 );
                 
                 
-                return Ok(new JwtSecurityTokenHandler().WriteToken(token));
+                return Ok(new { Token = new JwtSecurityTokenHandler().WriteToken(token) });
             }
             else
             {

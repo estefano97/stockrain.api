@@ -37,24 +37,6 @@ C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\obj\Debug\net7.0\
 C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\obj\Debug\net7.0\stockrain.api.pdb
 C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\obj\Debug\net7.0\stockrain.api.genruntimeconfig.cache
 C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\obj\Debug\net7.0\ref\stockrain.api.dll
-<<<<<<< HEAD
-C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\bin\Debug\net7.0\Humanizer.dll
-C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\bin\Debug\net7.0\Newtonsoft.Json.dll
-C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\bin\Debug\net7.0\System.CodeDom.dll
-C:\Users\kali_\Documents\Proyectos\stockrain.api\stockrain.api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-=======
 C:\Users\kali_\Documents\MyStockApiDiana\stockrain.api\stockrain.api\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\kali_\Documents\MyStockApiDiana\stockrain.api\stockrain.api\bin\Debug\net7.0\appsettings.json
 C:\Users\kali_\Documents\MyStockApiDiana\stockrain.api\stockrain.api\bin\Debug\net7.0\stockrain.api.exe
@@ -110,4 +92,3 @@ C:\Users\kali_\Documents\MyStockApiDiana\stockrain.api\stockrain.api\bin\Debug\n
 C:\Users\kali_\Documents\MyStockApiDiana\stockrain.api\stockrain.api\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\Users\kali_\Documents\MyStockApiDiana\stockrain.api\stockrain.api\bin\Debug\net7.0\System.CodeDom.dll
 C:\Users\kali_\Documents\MyStockApiDiana\stockrain.api\stockrain.api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
->>>>>>> ab6ae68783cc0c32a13325885703ceb85c3b490a
